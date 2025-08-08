@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: archive-taxonomies_notion
 permalink: /categories/
 title: Categories
 type: categories
