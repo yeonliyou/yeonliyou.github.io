@@ -1,8 +1,7 @@
-- title: Blog
-  url: /
+#좌측 메뉴바 생성
 - title: About
   url: /about/
 - title: Notion
-  url: /
+  url: /dates/
 - title: Trend & Insight
-  url: /
+  url: /dates/
